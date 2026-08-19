@@ -48,8 +48,8 @@ No dia a dia, trabalho com produtos web, APIs, automações, integrações, sist
 ### GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=quejiin&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=issues,contribs" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quejiin&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+  <img height="150" src="https://ghstats.dev/api/card?username=quejiin&theme=tokyonight&size=compact&hide_border=true&bg=0D1117&title_color=58A6FF&icon_color=58A6FF&text=C9D1D9&hide=commits,issues,prs,streak,week,trend,avg,active_day" alt="GitHub stats" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quejiin&theme=github_dark" alt="Top languages" />
 </div>
 
 ### Contribution Snake
