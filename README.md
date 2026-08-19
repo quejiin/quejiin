@@ -16,47 +16,37 @@
 
 ---
 
-### Sobre mim
+### ⚡ Sobre mim
 
-Transformo ideias em sistemas funcionais — do conceito ao deploy. Gosto de resolver problemas reais com produtos web, APIs, automações e infraestrutura.
+Transformo ideias em sistemas funcionais — do conceito ao deploy. Gosto de resolver problemas reais criando produtos web, integrações e infraestrutura.
 
-### ⚡ O que eu faço
+- **Produtos:** aplicações web e SaaS
+- **Integrações:** APIs e automações
+- **Tempo real:** WebSockets, SSE e workers
+- **Infraestrutura:** backend, bancos, Docker e Linux
+- **IA aplicada:** ferramentas e fluxos para desenvolvimento
 
-- Aplicações web e SaaS
-- APIs e integrações
-- Automações
-- Sistemas em tempo real
-- Backend e bancos de dados
-- Docker, Linux e infraestrutura
-- IA aplicada ao desenvolvimento
-
-### Stack
-
-<p>
-  <strong>TypeScript</strong> · <strong>Node.js</strong> · <strong>React</strong> · <strong>Next.js</strong> · <strong>Fastify</strong><br />
-  <strong>PostgreSQL</strong> · <strong>Redis</strong> · <strong>Docker</strong> · <strong>Linux</strong> · <strong>Git</strong><br />
-  REST APIs · WebSocket · SSE
-</p>
-
-### Tecnologias & Ferramentas
+### Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,redis,docker,linux,git&theme=dark" alt="Tecnologias e ferramentas" /><br />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,redis,docker,linux,git&theme=dark" alt="Stack principal" /><br />
   <img src="https://cdn.simpleicons.org/fastify/58A6FF" width="42" height="42" alt="Fastify" />
 </p>
 
+<p>REST APIs · WebSocket · SSE · Real-time · Automação</p>
+
 ### Projetos & Áreas
 
-- SaaS & Plataformas
-- Real-time Systems
-- Automação & Integrações
-- Infraestrutura
+- **SaaS & Plataformas** — Produtos web completos, dashboards, autenticação e integrações.
+- **Real-time Systems** — Eventos, WebSockets, SSE, workers e processamento em tempo real.
+- **Automação & Integrações** — APIs, fluxos automatizados e integração entre serviços.
+- **Infraestrutura** — Docker, Linux, deploy, bancos de dados e serviços backend.
 
 ### GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://ghstats.dev/api/card?username=quejiin&theme=tokyonight&size=compact&hide_border=true&bg=0D1117&title_color=58A6FF&icon_color=58A6FF&text=C9D1D9&hide=commits,issues,prs,streak,week,trend,avg,active_day" alt="GitHub stats" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quejiin&theme=github_dark" alt="Top languages" />
+  <img height="170" src="https://ghstats.dev/api/card?username=quejiin&theme=tokyonight&size=compact&hide_border=true&bg=0D1117&title_color=58A6FF&icon_color=58A6FF&text=C9D1D9&hide=commits,issues,prs,streak,week,trend,avg,active_day" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quejiin&theme=github_dark" alt="Top languages" />
 </div>
 
 ### GitHub Trophies
