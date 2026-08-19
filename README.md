@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=header" width="100%" alt="" />
+
 <div align="center">
 
   <h1>Quejiin</h1>
@@ -8,7 +10,7 @@
 
   <p>Full Stack • SaaS • Automação • Infraestrutura • Real-time Systems</p>
 
-  <a href="https://zapchatbr.com">zapchatbr.com</a>
+  <p><a href="https://zapchatbr.com">ZapChat BR</a> · <a href="https://github.com/quejiin">GitHub</a></p>
 
 </div>
 
@@ -16,9 +18,7 @@
 
 ### Sobre mim
 
-Gosto de pegar uma ideia e transformá-la em algo que realmente funciona. Construo sistemas completos, da primeira decisão ao deploy, sempre tentando manter as coisas simples, úteis e fáceis de evoluir.
-
-No dia a dia, trabalho com produtos web, APIs, automações, integrações, sistemas em tempo real e infraestrutura — especialmente quando existe um problema real para resolver.
+Transformo ideias em sistemas funcionais — do conceito ao deploy. Gosto de resolver problemas reais com produtos web, APIs, automações e infraestrutura.
 
 ### ⚡ O que eu faço
 
@@ -38,6 +38,12 @@ No dia a dia, trabalho com produtos web, APIs, automações, integrações, sist
   REST APIs · WebSocket · SSE
 </p>
 
+### Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nextjs,fastify,postgres,redis,docker,linux,git&theme=dark" alt="Tecnologias e ferramentas" />
+</p>
+
 ### Projetos & Áreas
 
 - SaaS & Plataformas
@@ -52,6 +58,12 @@ No dia a dia, trabalho com produtos web, APIs, automações, integrações, sist
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quejiin&theme=github_dark" alt="Top languages" />
 </div>
 
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=quejiin&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</p>
+
 ### Contribution Snake
 
 <div align="center">
@@ -61,3 +73,5 @@ No dia a dia, trabalho com produtos web, APIs, automações, integrações, sist
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/quejiin/quejiin/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" width="100%" alt="" />
