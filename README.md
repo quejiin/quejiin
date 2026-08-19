@@ -41,7 +41,7 @@ Transformo ideias em sistemas funcionais — do conceito ao deploy. Gosto de res
 ### Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nextjs,fastify,postgres,redis,docker,linux,git&theme=dark" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,redis,docker,linux,git&theme=dark" alt="Tecnologias e ferramentas" />
 </p>
 
 ### Projetos & Áreas
@@ -61,7 +61,7 @@ Transformo ideias em sistemas funcionais — do conceito ao deploy. Gosto de res
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=quejiin&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img width="680" src="https://github-profile-trophy.screw-hand.vercel.app/?username=quejiin&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=3&margin-h=3&rank=-UNKNOWN,-C" alt="GitHub trophies" />
 </p>
 
 ### Contribution Snake
